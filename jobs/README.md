@@ -127,4 +127,4 @@ into an executable shell script. Here is a conceptual demo.
 	  test_script:                             $LKP_SRC/tests/test_script
 ```
 ## job allocation
-[This page](README-job-allocation.html) talks about job allocation.
+[This page](https://github.com/intel/lkp-tests/blob/master/allot/README.md) talks about job allocation.
